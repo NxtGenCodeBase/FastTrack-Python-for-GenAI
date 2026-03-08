@@ -26,5 +26,7 @@ This repository tracks my 30-day journey from Python fundamentals to the prerequ
 ├── .gitignore
 ├── Day_01_Setup/
 │   └── setup_notes.md
-
-
+├── Day_02_IDEs/
+│   └── ide_comparison.md
+├── Day_03_Jupyter/
+│   └── Jupyter_Basics.ipynb
