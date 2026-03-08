@@ -27,8 +27,4 @@ This repository tracks my 30-day journey from Python fundamentals to the prerequ
 ├── Day_01_Setup/
 │   └── setup_notes.md
 
-# Day 1: Python Installation
-- Installed Python 3.11+
-- Configured Environment Variables (Path)
-- Verified installation: `python --version`
-- Created first virtual environment: `python -m venv venv`
+
