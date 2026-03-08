@@ -30,3 +30,7 @@ This repository tracks my 30-day journey from Python fundamentals to the prerequ
 │   └── ide_comparison.md
 ├── Day_03_Jupyter/
 │   └── Jupyter_Basics.ipynb
+├── Day_04_Basics/
+│   └── basics.py
+└── Day_05_Control_Flow/
+    └── logic.py
