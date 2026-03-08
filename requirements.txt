@@ -1,0 +1,22 @@
+# --- Core Data Science Stack ---
+numpy>=1.24.0      # Fundamental numerical computing
+pandas>=2.0.0     # Data manipulation & DataFrames
+scipy>=1.10.0      # Scientific computing and optimization
+
+# --- Visualization ---
+matplotlib>=3.7.0  # Basic plotting
+seaborn>=0.12.0     # Advanced statistical visualization
+plotly>=5.13.0     # Interactive web-based charts
+
+# --- Development & Notebooks ---
+notebook>=7.0.0    # Classic Jupyter Notebook interface
+ipykernel          # Allows Jupyter to use this environment
+
+# --- Machine Learning & AI Prep ---
+scikit-learn>=1.2.0 # Classic ML algorithms (Regression, Clustering)
+python-dotenv      # Manage environment variables for API keys
+
+# --- Generative AI Essentials (For Weeks 3-4) ---
+transformers       # Hugging Face models for NLP & Vision
+langchain          # Framework for LLM applications
+openai             # OpenAI API client
