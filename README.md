@@ -12,7 +12,7 @@ This repository tracks my 30-day journey from Python fundamentals to the prerequ
 - **Week 4:** OOP & AI Prerequisites (GenAI)
 
 ## 🛠️ Setup Instructions
-1. **Clone the repo:** `git clone <your-repo-url>`
+1. **Clone the repo:** `git clone https://github.com/NxtGenCodeBase/FastTrack-Python-for-GenAI.git`
 2. **Environment:** Install [Miniconda](https://docs.conda.io) or [Anaconda](https://www.anaconda.com).
 3. **Install Dependencies:** 
    ```bash
