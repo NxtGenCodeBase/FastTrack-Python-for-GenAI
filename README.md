@@ -2,6 +2,8 @@
 ![License](https://img.shields.io)
 ![Maintained](https://img.shields.io)
 ![AI Focus](https://img.shields.io)
+[![Python](https://img.shields.io)](https://www.python.org)
+[![Pandas](https://img.shields.io)](https://pandas.pydata.org)
 
 # FastTrack-Python-for-GenAI
 ![By Day 30, you will have the environment and logic ready to build your first LLM application](header.png)
