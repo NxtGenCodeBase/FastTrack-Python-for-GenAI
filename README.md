@@ -8,7 +8,7 @@
 
 # 30 Days of Python: Journey towards AI 🚀
 
-This repository tracks my 30-day journey from Python fundamentals to the prerequisites of Generative AI. Inspired by the "30-Days-Of-Python" challenge.
+This repository tracks my 30-day journey from Python fundamentals to the prerequisites of Generative AI. Inspired by the "30-Days-Of-Python" challenge. Topics covered in this practise are, "LangChain," "Hugging Face," and "RAG" under Python fundamentals with Generative AI, including "Python for GenAI," "LLM Development," and "AI Agent Development".
 
 ## 📅 Roadmap
 - **Week 1:** Core Programming & Environment Setup
