@@ -1,3 +1,9 @@
+```markdown
+![Python Version](https://img.shields.io)
+![License](https://img.shields.io)
+![Maintained](https://img.shields.io)
+![AI Focus](https://img.shields.io)
+
 # FastTrack-Python-for-GenAI
 ![By Day 30, you will have the environment and logic ready to build your first LLM application](header.png)
 
@@ -10,6 +16,20 @@ This repository tracks my 30-day journey from Python fundamentals to the prerequ
 - **Week 2:** Data Structures & Functional Python
 - **Week 3:** Pandas Deep Dive & Data Wrangling
 - **Week 4:** OOP & AI Prerequisites (GenAI)
+
+## ⚡ Quick Start (Try it in 30 Seconds)
+
+Don't wait! Run this to see if your environment is ready for AI:
+
+```bash
+# Clone and install dependencies
+git clone clone https://github.com/NxtGenCodeBase/FastTrack-Python-for-GenAI.git
+cd FastTrack-Python-for-GenAI
+pip install -r requirements.txt
+
+# Run the Day 1 Test
+python Day_01_Setup/test_setup.py
+
 
 ## 🛠️ Setup Instructions
 1. **Clone the repo:** `git clone https://github.com/NxtGenCodeBase/FastTrack-Python-for-GenAI.git`
