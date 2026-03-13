@@ -1,4 +1,3 @@
-```markdown
 ![Python Version](https://img.shields.io)
 ![License](https://img.shields.io)
 ![Maintained](https://img.shields.io)
