@@ -1,7 +1,7 @@
-![Python Version](https://img.shields.io/badge/Python-Version-3.10+-blue)(https://www.python.org)
-![License](https://img.shields.io)(https://img.shields.io/badge/License-License-Orange)(https://www.python.org)
-![Maintained](https://img.shields.io)(https://img.shields.io/badge/Maintained-Maintained-Green)
-![AI Focus](https://img.shields.io)(https://img.shields.io/badge/AI_Focus-AI Focus-Blue)
+![Python Version](https://img.shields.io/badge/Python-Version_3.10-blue)(https://www.python.org)
+![License](https://img.shields.io/badge/License-License-Orange)(https://www.python.org)
+![Maintained](https://img.shields.io/badge/Maintained-Maintained-Green)
+![AI Focus](https://img.shields.io/badge/AI_Focus-AI_Focus-Blue)
 
 # FastTrack-Python-for-GenAI
 ![By Day 30, you will have the environment and logic ready to build your first LLM application](header.png)
